@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "note": "hi",
   "licenses": [
     {
-      "device_hash": "DEVICE_HASH_HERE",
+      "device_hash": "PASTE_USER_APP_ID_HERE",
+      "active": true,
+      "status": "active",
       "license_until_epoch_ms": 1798761600000,
-      "plan": "paid",
-      "signature_base64": "SIGN_WITH_PRIVATE_KEY_LATER"
+      "plan": "paid"
     }
   ],
   "blocked": []
