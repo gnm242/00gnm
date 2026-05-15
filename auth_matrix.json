@@ -1,19 +1,20 @@
-
 {
   "users": {
-    "": {
+    "e0adcec4e250f0e8a25c1921627243d731210877c86548d838611ac214891fa0": {
+      "user_name": "Noman NZG",
       "status": "active",
-      "expiry_epoch_ms": 1893456000000,
+      "duration": "1month",
       "freeze_seconds": 5,
-      "popup_notice_en": "Welcome to NZG 73! Your premium access is now active.",
-      "popup_notice_ur": "خوش آمدید! این زیڈ جی 73 کی طرف سے آپ کا پریمیم رسائی فعال ہو چکا ہے۔"
+      "custom_notice": "آپ کا ایک مہینے کا پلان ایکٹیو ہے، شکریہ!",
+      "urgent_alert": ""
     },
-    "APP_ID_USER_2_HERE": {
-      "status": "active",
-      "expiry_epoch_ms": 1716469200000,
+    "PASTE_USER_ID_2": {
+      "user_name": "Ali Hassan",
+      "status": "blocked",
+      "duration": "0",
       "freeze_seconds": 10,
-      "popup_notice_en": "Special access granted. Enjoy the seamless experience.",
-      "popup_notice_ur": "خصوصی رسائی دے دی گئی ہے۔ بہترین تجربے سے لطف اندوز ہوں۔"
+      "custom_notice": "آپ کو عارضی طور پر بلاک کیا گیا ہے، رابطہ کریں۔",
+      "urgent_alert": "آپ کی پیمنٹ پینڈنگ ہے!"
     }
   }
 }
