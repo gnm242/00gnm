@@ -1,0 +1,19 @@
+
+{
+  "users": {
+    "APP_ID_USER_1_HERE": {
+      "status": "active",
+      "expiry_epoch_ms": 1716382800000,
+      "freeze_seconds": 5,
+      "popup_notice_en": "Welcome to NZG 73! Your premium access is now active.",
+      "popup_notice_ur": "خوش آمدید! این زیڈ جی 73 کی طرف سے آپ کا پریمیم رسائی فعال ہو چکا ہے۔"
+    },
+    "APP_ID_USER_2_HERE": {
+      "status": "active",
+      "expiry_epoch_ms": 1716469200000,
+      "freeze_seconds": 10,
+      "popup_notice_en": "Special access granted. Enjoy the seamless experience.",
+      "popup_notice_ur": "خصوصی رسائی دے دی گئی ہے۔ بہترین تجربے سے لطف اندوز ہوں۔"
+    }
+  }
+}
