@@ -1,7 +1,7 @@
 
 {
   "system_control": {
-    "is_maintenance_mode": true,
+    "is_maintenance_mode": false,
     "is_global_ban": false,
     "freeze_seconds": 30,
     "popup_notice_en": "System is currently under maintenance. App will be back online in 2 hours.",
