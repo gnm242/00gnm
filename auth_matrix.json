@@ -1,7 +1,7 @@
 
 {
   "users": {
-    "e0adcec4e250f0e8a25c1921627243d731210877c86548d838611ac214891fa0": {
+    "": {
       "status": "active",
       "expiry_epoch_ms": 1893456000000,
       "freeze_seconds": 5,
