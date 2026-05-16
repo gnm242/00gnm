@@ -1,8 +1,8 @@
 {
   "system_control": {
-    "is_maintenance_mode": true,
-    "block_duration": "1days",
-    "freeze_seconds": 30,
+    "is_maintenance_mode": false,
+    "block_duration": "0",
+    "freeze_seconds": 0,
     "popup_notice_en": "System is currently under maintenance. App will be back online in 2 hours.",
     "popup_notice_ur": "سسٹم پر ابھی کام چل رہا ہے۔ ایپ 2 گھنٹے میں دوبارہ آن لائن ہو جائے گی۔"
   }
