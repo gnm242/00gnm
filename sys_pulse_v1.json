@@ -1,9 +1,13 @@
 {
   "update_info": {
-    "version_code": 1.1,
+    "version_code": 1.2,
     "force_update": true,
     "freeze_seconds": 15,
     "popup_notice_en": "A new update for N-Priva is available!",
     "popup_notice_ur": "این پریوا کا نیا اپڈیٹ آ چکا ہے!"
+    "links": {
+      "Download_Link_1": "https://nzg73.blogspot.com/",
+      "Telegram_Channel": "https://t.me/yourchannel",
+      "WhatsApp_Support": "https://wa.me/yournumber"
   }
 }
