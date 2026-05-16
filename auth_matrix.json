@@ -7,6 +7,7 @@
       "freeze_seconds": 5,
       "custom_notice": "آپ کا ایک مہینے کا پلان ایکٹیو ہے، شکریہ!",
       "urgent_alert": ""
+      "urgent_urdu_alert": "آپ کی پیمنٹ پینڈنگ ہے!"
     },
     "PASTE_USER_ID_2": {
       "user_name": "Ali Hassan",
