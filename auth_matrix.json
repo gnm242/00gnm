@@ -1,12 +1,12 @@
 {
   "users": {
-    "": {
+    "588135f6b4238d8b414376035478ece7d9c907c3066cec879779a36cfea7ce21": {
       "user_name": "Noman NZG",
       "status": "active",
-      "duration": "1month",
+      "duration": "1DAY",
       "freeze_seconds": 5,
       "custom_notice": "آپ کا ایک مہینے کا پلان ایکٹیو ہے، شکریہ!",
-      "urgent_alert": ""
+      "urgent_alert": "HII"
       "urgent_urdu_alert": "آپ کی پیمنٹ پینڈنگ ہے!"
     },
     "PASTE_USER_ID_2": {
