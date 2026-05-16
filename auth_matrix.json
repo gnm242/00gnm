@@ -9,10 +9,10 @@
       "urgent_alert": "HII"
       "urgent_urdu_alert": "آپ کی پیمنٹ پینڈنگ ہے!"
     },
-    "PASTE_USER_ID_2": {
+    "588135f6b4238d8b414376035478ece7d9c907c3066cec879779a36cfea7ce21": {
       "user_name": "Ali Hassan",
-      "status": "blocked",
-      "duration": "0",
+      "status": "activ",
+      "duration": "1day",
       "freeze_seconds": 10,
       "custom_notice": "آپ کو عارضی طور پر بلاک کیا گیا ہے، رابطہ کریں۔",
       "urgent_alert": "HI there is a little"
