@@ -1,6 +1,6 @@
 {
   "users": {
-    "588135f6b4238d8b414376035478ece7d9c907c3066cec879779a36cfea7ce21": {
+    "5d3066cec879779a36cfea7ce21": {
       "user_name": "Noman NZG",
       "status": "active",
       "duration": "9hour",
@@ -9,7 +9,7 @@
       "urgent_alert": "HII",
       "urgent_urdu_alert": "آپ کی پیمنٹ پینڈنگ ہے!"
     },
-    "e0adcec4e250f0e8a25c1921627243d731210877c86548d838611ac214891fa0": {
+    "ed91fa0": {
       "user_name": "Ali Hassan",
       "status": "active",
       "duration": "1day",
